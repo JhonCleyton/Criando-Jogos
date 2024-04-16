@@ -4,6 +4,9 @@ Descrição do Jogo:
 
 Este jogo de aventura em texto permite que você explore um mundo fantasioso, lute contra inimigos e encontre tesouros. Você poderá escolher entre diferentes ações, como atacar, usar poções, equipar armaduras e armas, e até mesmo fugir de batalhas. O objetivo final é derrotar o chefe final e completar sua jornada épica.
 
+Para o futuro:
+quero adicionar os minijogos e deixar ele com visual classico
+adicionar estilos visuais e versão mobile
 Como Jogar:
 
 Começando o Jogo:
